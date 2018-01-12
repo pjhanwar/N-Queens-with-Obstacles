@@ -3,9 +3,9 @@
 The code is an implementation of traditional n-queens problem with obstacles using 3 algorithms:<br>
 Depth First Search<br>
 Breadth First Search &<br>
-Simiulated Annealing<br>
+Simulated Annealing<br>
 
-If an obstacle is present in a row of the borad, the queen can be placed at either side of the obstacle without attacking each other.
+If an obstacle is present in a row of the board, the queen can be placed at either side of the obstacle without attacking each other.
 
 # Input: 
 The	input	should	be	formatted	as	follows:<br>
